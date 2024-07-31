@@ -19,6 +19,8 @@ The datasets used in this project contain labels, which allow us to compare the 
 ### Birch (Balanced Iterative Reducing and Clustering using Hierarchies)
 Birch is a hierarchical clustering algorithm that builds a tree structure called the Clustering Feature Tree (CF Tree) for incremental clustering of incoming, multi-dimensional metric data points.
 
+![Clustering Example](images/birch.png)
+
 ### DBScan (Density-Based Spatial Clustering of Applications with Noise)
 DBScan is a density-based clustering algorithm that can discover clusters of arbitrary shape and is robust to noise. It requires two parameters: epsilon (ε) and the minimum number of points required to form a dense region.
 
