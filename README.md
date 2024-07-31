@@ -43,11 +43,7 @@ KModes is used for clustering categorical data. It is an extension of the k-mean
 
 ## Evaluation
 
-The performance of each clustering algorithm is evaluated by comparing the predicted cluster labels with the true labels. Common evaluation metrics used include:
-
-- Adjusted Rand Index (ARI)
-- Normalized Mutual Information (NMI)
-- Homogeneity, Completeness, and V-Measure
+The performance of each clustering algorithm is evaluated by comparing the predicted cluster labels with the true labels. The results show that the clusters made using Birch are close to the orignal clusters.
 
 ## Usage
 
