@@ -34,10 +34,12 @@ Agglomerative Clustering is a hierarchical clustering method that builds nested 
 ### KMedoids
 KMedoids is a clustering algorithm related to k-means and the medoidshift algorithm. It represents clusters by their medoid, the object in a cluster whose average dissimilarity to all the objects in the cluster is minimal.
 
-![Kmedoid](images/KMedoid.png)
+![KMedoid](images/KMedoid.png)
 
 ### KModes
 KModes is used for clustering categorical data. It is an extension of the k-means algorithm to cluster categorical data by replacing the means of clusters with modes.
+
+![Kmodes](images/Kmodes.png)
 
 ## Evaluation
 
