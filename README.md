@@ -12,7 +12,7 @@ This project applies various clustering algorithms to a dataset with known label
 
 The datasets used in this project contain labels, which allow us to compare the performance of different clustering algorithms against the true clusters. Each dataset is loaded and preprocessed before applying the clustering algorithms.
 
-![orignal](images/original.png)
+![orignal](images/orignal.png)
 
 ## Clustering Algorithms
 
@@ -34,7 +34,7 @@ Agglomerative Clustering is a hierarchical clustering method that builds nested 
 ### KMedoids
 KMedoids is a clustering algorithm related to k-means and the medoidshift algorithm. It represents clusters by their medoid, the object in a cluster whose average dissimilarity to all the objects in the cluster is minimal.
 
-![Kmedoid](images/Kmedoid.png)
+![Kmedoid](images/KMedoid.png)
 
 ### KModes
 KModes is used for clustering categorical data. It is an extension of the k-means algorithm to cluster categorical data by replacing the means of clusters with modes.
