@@ -1,4 +1,4 @@
-# Clustering Analysis Project
+# Clustering Analysis Using Different Techniques
 
 This project applies various clustering algorithms to a dataset with known labels to evaluate how closely the clustering results match the original clusters. The clustering algorithms used in this project are:
 
@@ -11,6 +11,8 @@ This project applies various clustering algorithms to a dataset with known label
 ## Dataset
 
 The datasets used in this project contain labels, which allow us to compare the performance of different clustering algorithms against the true clusters. Each dataset is loaded and preprocessed before applying the clustering algorithms.
+
+![Clustering Example](images/original answers.png)
 
 ## Clustering Algorithms
 
